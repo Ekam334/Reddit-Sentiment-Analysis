@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Reddit Sentiment Analysis
 
 This project performs sentiment analysis on Reddit subreddits using two models:
@@ -52,3 +53,6 @@ USER_AGENT=your_user_agent
 
 ## 📌 Author
 Ekam –  | [https://github.com/Ekam334]
+=======
+# Reddit-Sentiment-Analysis
+>>>>>>> 380e508f15a389c95909d721086bd7d3c65dd82e
